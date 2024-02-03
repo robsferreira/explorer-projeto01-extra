@@ -65,7 +65,8 @@ a {
 }
 
 #wave {
-    position: relative;
-    margin-top: 40px; 
+    display: ;
+    width: 100%;
+    padding-top: 30px;
     margin-bottom: 0px;
 }
